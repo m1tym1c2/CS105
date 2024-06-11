@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "name": "Object_1",
+      "size": {
+        "horizontal_size": 0.27554463177027183,
+        "vertical_size": 0.23027537643867974
+      },
+      "position": {
+        "horizontal_position": 9,
+        "vertical_position": 10
+      },
+      "rotation": 0
+    },
+    {
+      "name": "Object_2",
+      "size": {
+        "horizontal_size": 0.3070768964384949,
+        "vertical_size": 0.19273624063526962
+      },
+      "position": {
+        "horizontal_position": 9,
+        "vertical_position": 15
+      },
+      "rotation": 0
+    }
+  ]
+}
