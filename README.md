@@ -39,11 +39,11 @@
 | 3      | 21520497      | Nguyễn Huỳnh Minh Triết     | Thành viên |       | 21520497@gm.uit.edu.vn   |
 | 4      | 21521924      | Ngô Phúc Danh    | Thành viên |       | 21521924@gm.uit.edu.vn   |
 ## [THÔNG TIN SEMINAR](#top)
-* **Chủ đề seminar:** Animation trong mô hình 3D với Three.js
+* **Chủ đề seminar:** Trò chơi play together
 * **Ngôn ngữ lập trình:** HTML, JavaScript
 
 ## [THÔNG TIN FINAL PROJECT](#top)
-* **Đề tài đồ án:** Mô phỏng hình học 3D cơ bản
+* **Đề tài đồ án:** Trò chơi play together
 * **Ngôn ngữ lập trình:** HTML, CSS, JavaScript
 
 ## [CÁC BƯỚC CẦN THIẾT](#top)
